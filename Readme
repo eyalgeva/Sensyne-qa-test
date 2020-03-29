@@ -1,0 +1,7 @@
+Not managed to work continuously on this so may be gaps in commit times
+Tests written in SoapUI, which is avaible from https://www.soapui.org/downloads/soapui.html
+To run the tests simply intall SoapUI and load the xml in this repo.
+A repeasted issue that was encountered was that some requests returned 204 status instead of 200 and therefor no content data for assertion (verification)
+I have not added these to the tests but used basic assertion methods (due to lack of time) 
+Not all test were completed as per the planned test cases (some are just a shell) but stopped after about 2 hours work as requested
+I do not think this is the complete list of test cases but as above stopped due to lack of time.
